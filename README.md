@@ -1,5 +1,5 @@
 # SCOTCH and SODA: A Transformer Video Shadow Detection Framework
-
+PengzelI
 This repository provides a Pytorch implementation of the paper ["SCOTCH and SODA: A Transformer Video Shadow Detection Framework, CVPR'23"](https://arxiv.org/abs/2211.06885).
 
 <img src="https://github.com/lihaoliu-cambridge/lihaoliu-cambridge.github.io/blob/master/scotch_and_soda/figures/segmentation_results.png">  
